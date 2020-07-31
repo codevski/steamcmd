@@ -1,4 +1,4 @@
-<h1 align="center">CSGO</h1>
+<h1 align="center">STEAMCMD</h1>
 
 <div align="center">
 <image src="https://3.bp.blogspot.com/-Jbo2ByKvK60/VoFsdmqP4mI/AAAAAAAAIxk/Ahz__bJjweU/s1600/Logo%2BSteam.png" width="50%" />
