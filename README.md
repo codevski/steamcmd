@@ -4,7 +4,7 @@
 <image src="https://3.bp.blogspot.com/-Jbo2ByKvK60/VoFsdmqP4mI/AAAAAAAAIxk/Ahz__bJjweU/s1600/Logo%2BSteam.png" width="50%" />
 </div>
 <div align="center">
-  Docker <code>alpine</code> image
+  Docker <code>steamcmd</code> image
 </div>
 
 <br />
@@ -56,3 +56,6 @@ The `steamcmd` images come in two flavors, each designed for a specific use case
 
 ## steamcmd:latest
 This is the defacto image. If you are unsure about what your needs are, you probably want to use this one. It is designed to be used as the base to build other images off of. This image's default user is steam, any command executed in a higher layer Dockerfile will therefor be executed as that user.
+
+## steamcmd:alpine
+This branch is currently under development. Goal of alpine branch is to release a extremly light weight minimal package for steamcmd.

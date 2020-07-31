@@ -1,7 +1,7 @@
 ############################################################
 # Dockerfile that contains SteamCMD
 ############################################################
-FROM alpine:latest
+FROM debian:buster-slim
 
 LABEL maintainer="codevski"
 ARG PUID=1000
