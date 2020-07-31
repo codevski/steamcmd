@@ -48,7 +48,8 @@ This image includes the nano text editor. The `steamcmd.sh` can be found at the 
 
 ## Examples
 Consult the following repositories for examples on how to base an image off of this one:
-- https://hub.docker.com/r/cm2network/csgo/
+- https://hub.docker.com/r/codevski/csgo/
+- https://hub.docker.com/r/codevski/ark/
 
 # Image Variants:
 The `steamcmd` images come in two flavors, each designed for a specific use case.
